@@ -1,18 +1,18 @@
 [submodule "xchange"]
 	path = xchange
-	url = git@github.com:Smithsonian/xchange
+	url = git@github.com:Sigmyne/xchange
 [submodule "redisx"]
 	path = redisx
-	url = git@github.com:Smithsonian/redisx
+	url = git@github.com:Sigmyne/redisx
 [submodule "smax-clib"]
 	path = smax-clib
-	url = git@github.com:Smithsonian/smax-clib
+	url = git@github.com:Sigmyne/smax-clib
 [submodule "smax-server"]
 	path = smax-server
 	url = git@github.com:Smithsonian/smax-server
 [submodule "smax-postgres"]
 	path = smax-postgres
-	url = git@github.com:Smithsonian/smax-postgres
+	url = git@github.com:Sigmyne/smax-postgres
 [submodule "smax-python"]
 	path = smax-python
 	url = git@github.com:Smithsonian/smax-python

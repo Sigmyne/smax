@@ -4,14 +4,6 @@
  ![API documentation](https://github.com/Smithsonian/smax/actions/workflows/dox.yml/badge.svg)
 </a>
 
-<picture>
-  <source srcset="resources/CfA-logo-dark.png" alt="CfA logo" media="(prefers-color-scheme: dark)"/>
-  <source srcset="resources/CfA-logo.png" alt="CfA logo" media="(prefers-color-scheme: light)"/>
-  <img src="resources/CfA-logo.png" alt="CfA logo" width="400" height="67" align="right"/>
-</picture>
-<br clear="all">
-
-
 # SMA-X
 
 [SMA-X](https://docs.google.com/document/d/1eYbWDClKkV7JnJxv4MxuNBNV47dFXuUWu7C4Ve_YTf0/edit?usp=sharing) is a realtime 
@@ -91,6 +83,6 @@ Or, you may build selected targets, such as share libraries (`shared`), static l
 (`tools`) and/or API documentation (`dox`).
 
 -----------------------------------------------------------------------------
-Copyright (C) 2024 Attila Kovács
+Copyright (C) 2026 Attila Kovács
 
 
