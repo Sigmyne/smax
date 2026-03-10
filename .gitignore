@@ -1,4 +1,10 @@
 lib
 bin
 infer-out/*
+*~
+*.swp
+tmp
+*.tmp
+
+
 
